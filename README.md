@@ -8,3 +8,11 @@ Input -> [20,47,11,5,6,8]
 Output -> [5,6,11,20,47,8] (Note that the odd/even numbers do not need to be in the same order as in the input)
 
 Solution: RearrangeOddEvenNumber.py
+
+
+
+2.Consider an array of integers. Find an equilibrium element, such that the product of element to the left is equal to 
+the product of element to the right. Return the index of equilibrium element. Return -1 if no element is found.
+[Expected time complexity = O(n)]
+
+Solution: EqulibriumElement.py
