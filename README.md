@@ -14,5 +14,12 @@ Solution: RearrangeOddEvenNumber.py
 2.Consider an array of integers. Find an equilibrium element, such that the product of element to the left is equal to 
 the product of element to the right. Return the index of equilibrium element. Return -1 if no element is found.
 [Expected time complexity = O(n)]
+Example:
+
+Input -> [3,2,4,1,6,4]
+Output -> 3
+
+Input -> [6,6,1,2,2,3,3]
+Output -> 2
 
 Solution: EqulibriumElement.py
