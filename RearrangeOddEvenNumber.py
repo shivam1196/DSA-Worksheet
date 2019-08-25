@@ -10,8 +10,8 @@ def rearrange_odd_even_number(input_list):
             answer_list[even_index] = number
             even_index += 2
 
-    print(answer_list)
+    return answer_list
 
 if __name__ == "__main__":
     input_list = [1,3,5,7,2,4,6,8]
-    rearrange_odd_even_number(input_list)
+    print(rearrange_odd_even_number(input_list))
